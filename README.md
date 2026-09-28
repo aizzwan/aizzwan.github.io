@@ -10,7 +10,7 @@ Open `index.html` in a browser. Google Fonts loads IBM Plex Serif, Sans, and Mon
 
 Push these files to the `main` branch of the `aizzwan.github.io` repository. In GitHub **Settings → Pages**, select **Deploy from a branch**, choose **main** and **/ (root)**, and save. The site address is https://aizzwan.github.io/.
 
-The local checkout has an unborn `master` branch and no remote. Publishing has not completed: local Git lacks its HTTPS helper, and the connected GitHub integration rejected the upload with HTTP 403 (Resource not accessible by integration). Grant the integration write access to this repository, or upload the files through GitHub, before enabling Pages.
+The website files are maintained on `main` in `aizzwan/aizzwan.github.io`. This initial upload uses the GitHub connector because local Git lacks its HTTPS helper. The local checkout remains unconnected to the remote.
 
 ## Content and photos
 
